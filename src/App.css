@@ -1,0 +1,24 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  height: 60vh;
+
+}
+button.ant-btn.ant-btn-primary{
+  margin: 10%;
+  
+}
+.bulb {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bulb button.ant-btn.ant-btn-primary {
+  margin-left: 15%;
+  margin-bottom: 4%;
+}
